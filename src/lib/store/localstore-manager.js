@@ -1,6 +1,6 @@
 export const storageLocal = {
 	_getData() {
-		const data = localStorage.getItem('WishSimulator.App');
+		const data = localStorage.getItem('WishSimulator');
 		if (!data) return { data: {} };
 		const parsed = JSON.parse(data);
 		return parsed;
@@ -14,7 +14,7 @@ export const storageLocal = {
 	set(key, value) {
 		const { data } = this._getData();
 		data[key] = value;
-		localStorage.setItem('WishSimulator.App', JSON.stringify({ data }));
+		localStorage.setItem('WishSimulator', JSON.stringify({ data }));
 	}
 };
 
