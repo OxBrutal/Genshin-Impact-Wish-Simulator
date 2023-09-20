@@ -29,7 +29,7 @@
 	<header>
 		<div class="brand">
 			<a href="/" on:click|preventDefault={() => window.location.replace('/')}>
-				WishSimulator.App
+				WishSimulator
 			</a>
 		</div>
 	</header>
