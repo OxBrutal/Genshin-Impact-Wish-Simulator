@@ -226,7 +226,7 @@
 				getting rare item will increase once you reach a certain pity depending on where banner you
 				pull. you can go <a
 					on:click|stopPropagation
-					href="https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator#pity-system"
+					href="https://wa.me/6288210828960"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
@@ -235,7 +235,7 @@
 				to find details of the probability. If you has any idea, please send me feedback by creating
 				<a
 					on:click|stopPropagation
-					href="https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator/issues"
+					href="https://wa.me/6288210828960"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
