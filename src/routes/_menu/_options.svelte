@@ -156,7 +156,7 @@
 					{/each}
 					<button on:click|stopPropagation>
 						<a
-							href="https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator/tree/master/src/locales"
+							href="https://wa.me/6288210828960"
 							target="_blank"
 							style="text-align:left;width:100%; padding: .5rem; text-align:center"
 						>
