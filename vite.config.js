@@ -48,8 +48,8 @@ const manifest = {
 	orientation: 'landscape',
 	name: VITE_APP_TITLE,
 	description: VITE_DESCRIPTION,
-	id: 'wishsimulator.app',
-	short_name: 'WishSimulator.App',
+	id: 'wishsimulator',
+	short_name: 'WishSimulator',
 	theme_color: '#ffffff',
 	background_color: '#ffffff',
 	display: 'fullscreen',
@@ -61,7 +61,7 @@ const manifest = {
 		'browser'
 	],
 	scope: '/',
-	scope_extensions: [{ origin: 'wishsimulator.app' }, { origin: 'wishsimulator.pages.dev' }],
+	scope_extensions: [{ origin: 'wishsimulator' }, { origin: 'wishsimulator.pages.dev' }],
 	start_url: '/?pwasc=homescreen',
 	categories: ['games', 'utilities'],
 	dir: 'auto',
@@ -79,7 +79,7 @@ const manifest = {
 		},
 		{
 			platform: 'play',
-			url: 'https://play.google.com/store/apps/details?id=twa.wishsimulator.app',
+			url: 'https://wish.ikankoi.my.id',
 			id: 'twa.wishsimulator.app'
 		}
 	],
