@@ -12,7 +12,7 @@
 	let autoscroll;
 	let newUpdate = false;
 
-	const isAdmin = (id, nick) => id === 'nang441' && nick === 'nang441';
+	const isAdmin = (id, nick) => id === 'hutao' && nick === 'hutao';
 	const scrollToBottom = (behavior) => {
 		const last = messages[messages.length - 1]?.key;
 		const el = chatlist.querySelector(`#${last}`);
