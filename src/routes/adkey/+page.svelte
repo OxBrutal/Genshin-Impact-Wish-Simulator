@@ -66,7 +66,7 @@
 				{#if error}
 					<span class="error">
 						Wrong Access Key, please get <a
-							href="https://ko-fi.com/post/AdFree-Wish-Simulator-Enjoy-Simulator-Without-Ads-G2G2DQ57O"
+							href="https://wa.me/6288210828960"
 							target="_blank"
 						>
 							<strong> New One Here ! </strong>
@@ -87,7 +87,7 @@
 
 		<p>
 			<a
-				href="https://ko-fi.com/post/AdFree-Wish-Simulator-Enjoy-Simulator-Without-Ads-G2G2DQ57O"
+				href="https://wa.me/6288210828960"
 				target="_blank"
 			>
 				<strong> Become a supporter here </strong>
