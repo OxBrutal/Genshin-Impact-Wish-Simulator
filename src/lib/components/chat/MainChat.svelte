@@ -49,12 +49,12 @@
 
 	let messages = [
 		{
-			uid: 'nang441',
-			name: 'nang441',
-			pic: 'nahida',
+			uid: '800000000',
+			name: 'hutao',
+			pic: 'hutao',
 			pro: false,
 			message:
-				'Welcome to the WishSimulator.App! Please be polite in this chat room! Everything in here will be cleaned every 3 hours.'
+				'Welcome to the WishSimulator! Please be polite in this chat room! Everything in here will be cleaned every 3 hours.'
 		}
 	];
 
