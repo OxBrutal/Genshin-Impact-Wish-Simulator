@@ -41,7 +41,7 @@
 
 	const saveHandler = () => {
 		playSfx();
-		saveAs(blob, `WishSimulator.App - ${new Date().toLocaleString()}.png`);
+		saveAs(blob, `WishSimulator - ${new Date().toLocaleString()}.png`);
 		addFunds();
 	};
 
@@ -68,7 +68,7 @@
 				url: shareLink
 			};
 
-			const files = new File([blob], `HSR.WishSimulator.App - ${new Date().toLocaleString()}.png`, {
+			const files = new File([blob], `WishSimulator - ${new Date().toLocaleString()}.png`, {
 				type: blob.type,
 				lastModified: new Date().getTime()
 			});
