@@ -59,7 +59,7 @@
 
 	const redirectIfNotValidPath = () => {
 		const isCDNHost = $page.url.host.includes('cdn.');
-		if (isCDNHost) return window.location.replace('https://wishsimulator.app/');
+		if (isCDNHost) return window.location.replace('https://wish.ikankoi.mi.id');
 		if (path[1] && !isPathValid) return window.location.replace('/');
 	};
 
