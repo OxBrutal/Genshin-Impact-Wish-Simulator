@@ -41,10 +41,10 @@
 				</div>
 				<div class="address">
 					<span> Ethereum ( erc20 ) </span>
-					<input type="text" value="0x4320025BAD621c03b906A84c531B10480A465184" disabled />
+					<input type="text" value="-" disabled />
 				</div>
 				<div class="copy">
-					<button on:click={() => copyHandle('0x4320025BAD621c03b906A84c531B10480A465184')}>
+					<button on:click={() => copyHandle('-')}>
 						<i class="gi-copy" />
 					</button>
 				</div>
@@ -56,10 +56,10 @@
 				</div>
 				<div class="address">
 					<span> Binance Coin ( bep20 )</span>
-					<input type="text" value="0x4320025BAD621c03b906A84c531B10480A465184" disabled />
+					<input type="text" value="-" disabled />
 				</div>
 				<div class="copy">
-					<button on:click={() => copyHandle('0x4320025BAD621c03b906A84c531B10480A465184')}>
+					<button on:click={() => copyHandle('-')}>
 						<i class="gi-copy" />
 					</button>
 				</div>
@@ -71,10 +71,10 @@
 				</div>
 				<div class="address">
 					<span> Solana </span>
-					<input type="text" value="4nFhLoPqpx71xPqgN2zhvoWtmgogzoDkEBzNKqjnpm2a" disabled />
+					<input type="text" value="-" disabled />
 				</div>
 				<div class="copy">
-					<button on:click={() => copyHandle('4nFhLoPqpx71xPqgN2zhvoWtmgogzoDkEBzNKqjnpm2a')}>
+					<button on:click={() => copyHandle('-')}>
 						<i class="gi-copy" />
 					</button>
 				</div>
@@ -93,7 +93,7 @@
 		<ShopGroupItem>
 			<a
 				class="content kofi"
-				href="https://ko-fi.com/mantan21"
+				href="ko-fi.com/qyuunee"
 				target="_blank"
 				in:fade={{ duration: 300, delay: Math.sqrt(0 * 5000) }}
 			>
@@ -113,7 +113,7 @@
 		<ShopGroupItem>
 			<a
 				class="content Saweria"
-				href="https://saweria.co/AguzzTN54"
+				href="https://saweria.co/QyuuGz"
 				target="_blank"
 				in:fade={{ duration: 300, delay: Math.sqrt(1 * 5000) }}
 			>
