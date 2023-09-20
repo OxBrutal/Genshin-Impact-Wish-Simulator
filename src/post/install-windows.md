@@ -13,7 +13,7 @@ You are not required to install it, the installed app is literally the same as t
 
 ## Steps
 
-1. First, Open the site (**https://wishsimulator.app**) with one of the browsers above.
+1. First, Open the site (**_https://wish.ikankoi.my.id_**) with one of the browsers above.
 2. Wait for the site to finish loading, then just navigate to the address bar, then click the install icon on the right side
 
    ![Windows Install](https://user-images.githubusercontent.com/13815468/200633549-869ae8a3-f077-4865-b120-a3e2804026b2.jpg)
