@@ -12,12 +12,12 @@
 
 <div class="updates content-container" in:fade={{ duration: 200 }}>
 	<div class="text">
-		You can Check what are changes we made on <a
+		Update? contact me at <a
 			on:click|stopPropagation
-			href="https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator"
+			href="https://wa.me/6288210828960"
 			target="_blank"
 		>
-			Github Repository
+			WhatsApp
 		</a>. You can submit an issue if you find something wrong !
 	</div>
 	<div class="update-item" bind:this={updatesContainer}>
